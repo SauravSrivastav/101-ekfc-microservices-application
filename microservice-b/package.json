@@ -1,0 +1,14 @@
+{
+    "name": "microservice-b",
+    "version": "1.0.0",
+    "description": "Microservice B",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "author": "Saurav Srivastav",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
